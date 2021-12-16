@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T12:40:15.580Z" agent="5.0 (X11)" etag="rnNZQ83HqBFD5syOSwPs" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T12:46:18.535Z" agent="5.0 (X11)" etag="nLCAlgjHt0rY28xBx-vS" version="15.9.6" type="github">
   <diagram id="2wzNUC4yG1h9Aumx_1qw" name="Page-1">
-    <mxGraphModel dx="813" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,9 +14,6 @@
         </mxCell>
         <mxCell id="pqr_v25YqV6M4nwxlAc1-1" value="Сhief" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="1120" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="w1AcAIy5LgfyRAH6xhP8-10" value="Request on getting refreched data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="pqr_v25YqV6M4nwxlAc1-1">
-          <mxGeometry x="165" y="120" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pqr_v25YqV6M4nwxlAc1-2" value="Monitoring system" style="swimlane;horizontal=0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="1120" height="200" as="geometry" />
@@ -135,8 +132,8 @@
         <mxCell id="w1AcAIy5LgfyRAH6xhP8-1" value="1-2 hours" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=standard;symbol=timer;" vertex="1" parent="pqr_v25YqV6M4nwxlAc1-3">
           <mxGeometry x="280" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w1AcAIy5LgfyRAH6xhP8-3" value="Report" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="pqr_v25YqV6M4nwxlAc1-3">
-          <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
+        <mxCell id="w1AcAIy5LgfyRAH6xhP8-3" value="Report about state of the object" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="pqr_v25YqV6M4nwxlAc1-3">
+          <mxGeometry x="360" y="70" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqr_v25YqV6M4nwxlAc1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pqr_v25YqV6M4nwxlAc1-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -199,11 +196,13 @@
         <mxCell id="t6xmETJgTZwnzYTTGEQw-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t6xmETJgTZwnzYTTGEQw-37" target="t6xmETJgTZwnzYTTGEQw-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="380" />
-              <mxPoint x="740" y="500" />
+              <mxPoint x="770" y="500" />
               <mxPoint x="140" y="500" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w1AcAIy5LgfyRAH6xhP8-10" value="Request on getting refreshed data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="188" y="252" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
