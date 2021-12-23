@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T23:47:09.067Z" agent="5.0 (X11)" etag="zewvRghtwdHfLhtMNf6E" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T23:55:43.088Z" agent="5.0 (X11)" etag="tj2xsExhoJUd55ZEY78p" version="16.0.0" type="github">
   <diagram id="j7GU4h9I3jQWYoxGHkG5" name="Page-1">
     <mxGraphModel dx="2591" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -142,104 +142,101 @@
         <mxCell id="Q-Rqz-kG9-XUVDBBUzex-66" value="М" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="414" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-1" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-1" value="Код автомобиля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="80" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-2" value="Отметка о ложности" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XeObAoIlSV6_AFHktTw5-3" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-4" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-4" value="Марка" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-5" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-5" value="&lt;div&gt;Вмести-тельность&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-6" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-6" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;пациента&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-7" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-7" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-8" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-8" value="Дата рождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-9" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-9" value="Возраст" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-10" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-10" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;водителя&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-11" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-11" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-12" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-12" value="Пол" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-13" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-13" value="Пол" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-14" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-14" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;сотрудника&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-15" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-15" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-16" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-16" value="Квалифи-кация" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-17" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-17" value="Телефон" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-18" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-18" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;диагноза&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-19" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-19" value="Название" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-20" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-20" value="Описание" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-21" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-21" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;препарата&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-22" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-22" value="Название" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-23" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-23" value="Кол-во на складе" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-28" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-29" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="120" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-30" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-31" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-32" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-33" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-34" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-35" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-35" value="Время вызова" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-36" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-36" value="Время прибытия" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XeObAoIlSV6_AFHktTw5-37" value="Гос. Номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XeObAoIlSV6_AFHktTw5-37" value="Отметка о ложносте" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeObAoIlSV6_AFHktTw5-38" value="Код автомобиля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeObAoIlSV6_AFHktTw5-39" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;пациента&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeObAoIlSV6_AFHktTw5-40" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;водителя&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeObAoIlSV6_AFHktTw5-41" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;сотрудника&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeObAoIlSV6_AFHktTw5-42" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;диагноза&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeObAoIlSV6_AFHktTw5-43" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;препарата&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeObAoIlSV6_AFHktTw5-44" value="&lt;div&gt;Код&lt;/div&gt;&lt;div&gt;вызова&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
