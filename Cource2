@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T06:36:52.207Z" agent="5.0 (X11)" etag="V_ew0_ybMMlUAtefU-PP" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T07:04:34.244Z" agent="5.0 (X11)" etag="716_WlekPdchcfkEpOVK" version="16.0.0" type="github">
   <diagram id="V5wwcdRUWy5H_LWRtUN_" name="Page-1">
-    <mxGraphModel dx="490" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,6 +114,122 @@
         </mxCell>
         <mxCell id="eBwv___wAApwpnbQom4j-37" value="Вызов 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="eBwv___wAApwpnbQom4j-66" target="eBwv___wAApwpnbQom4j-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-66" value="Пациент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="27" y="466" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-67" value="Содержит информацию" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=oval;startFill=1;" edge="1" source="eBwv___wAApwpnbQom4j-69" target="eBwv___wAApwpnbQom4j-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-69" value="Вызов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="466" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-70" value="М" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287" y="466" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-71" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="117" y="466" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-72" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" source="eBwv___wAApwpnbQom4j-73" target="eBwv___wAApwpnbQom4j-83" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-73" value="Пациент 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-107" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="1" source="eBwv___wAApwpnbQom4j-75" target="eBwv___wAApwpnbQom4j-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-75" value="Пациент 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-77" value="Пациент 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-78" value="Вызов2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-79" value="Вызов 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-80" value="Вызов 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-105" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="1" source="eBwv___wAApwpnbQom4j-82" target="eBwv___wAApwpnbQom4j-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-106" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" parent="1" source="eBwv___wAApwpnbQom4j-82" target="eBwv___wAApwpnbQom4j-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-82" value="Пациент 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-83" value="Вызов 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="eBwv___wAApwpnbQom4j-85" target="eBwv___wAApwpnbQom4j-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-85" value="Водитель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="466" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-86" value="Назначается" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=oval;startFill=1;" edge="1" source="eBwv___wAApwpnbQom4j-88" target="eBwv___wAApwpnbQom4j-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-88" value="Вызов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="466" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-89" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="466" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-90" value="М" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="466" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-91" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" source="eBwv___wAApwpnbQom4j-92" target="eBwv___wAApwpnbQom4j-97" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-92" value="Водитель 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-93" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" source="eBwv___wAApwpnbQom4j-94" target="eBwv___wAApwpnbQom4j-98" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-94" value="Водитель 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-95" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" source="eBwv___wAApwpnbQom4j-96" target="eBwv___wAApwpnbQom4j-99" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-96" value="Водитель 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-97" value="Вызов2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-98" value="Вызов 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-99" value="Вызов 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-100" style="edgeStyle=none;rounded=0;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=1;elbow=vertical;" edge="1" source="eBwv___wAApwpnbQom4j-101" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="414.9310344827586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-101" value="Водитель 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBwv___wAApwpnbQom4j-102" value="Вызов 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
