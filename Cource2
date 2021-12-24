@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T10:51:16.000Z" agent="5.0 (X11)" etag="YYA0nItjf4JOJil7r6FZ" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T11:03:04.024Z" agent="5.0 (X11)" etag="qcXzwHxhY40zMIZ862xy" version="16.0.3" type="github">
   <diagram id="V5wwcdRUWy5H_LWRtUN_" name="Page-1">
     <mxGraphModel dx="449" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -746,64 +746,64 @@
         <mxCell id="LFPc4WVPHWTu2LSeotTD-86" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" source="LFPc4WVPHWTu2LSeotTD-87" target="LFPc4WVPHWTu2LSeotTD-82" parent="eBwv___wAApwpnbQom4j-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1080" y="280" />
-              <mxPoint x="1010" y="280" />
+              <mxPoint x="1080" y="260" />
+              <mxPoint x="1010" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-87" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="eBwv___wAApwpnbQom4j-186">
-          <mxGeometry x="1050" y="40" width="170" height="170" as="geometry" />
+          <mxGeometry x="1050" y="40" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-88" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-87">
-          <mxGeometry width="170" height="40" as="geometry" />
+          <mxGeometry width="170" height="47" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-89" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-88">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-90" value="Гос.Номер" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-88">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-91" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-87">
-          <mxGeometry y="40" width="170" height="40" as="geometry" />
+          <mxGeometry y="47" width="170" height="47" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-92" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-91">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-93" value="е678гг" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-91">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-94" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-87">
-          <mxGeometry y="80" width="170" height="40" as="geometry" />
+          <mxGeometry y="94" width="170" height="47" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-95" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-94">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-96" value="у555рп" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-94">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-97" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-87">
-          <mxGeometry y="120" width="170" height="50" as="geometry" />
+          <mxGeometry y="141" width="170" height="59" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-98" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-97">
-          <mxGeometry width="73" height="50" as="geometry">
-            <mxRectangle width="73" height="50" as="alternateBounds" />
+          <mxGeometry width="73" height="59" as="geometry">
+            <mxRectangle width="73" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-99" value="й123си" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-97">
-          <mxGeometry x="73" width="97" height="50" as="geometry">
-            <mxRectangle width="97" height="50" as="alternateBounds" />
+          <mxGeometry x="73" width="97" height="59" as="geometry">
+            <mxRectangle width="97" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-275" value="R1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eBwv___wAApwpnbQom4j-186">
@@ -843,7 +843,7 @@
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-293" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-290">
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-293" value="Код пациента" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-290">
           <mxGeometry x="120" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -923,8 +923,8 @@
         <mxCell id="LFPc4WVPHWTu2LSeotTD-310" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" source="LFPc4WVPHWTu2LSeotTD-311" target="LFPc4WVPHWTu2LSeotTD-306" parent="eBwv___wAApwpnbQom4j-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1490" y="280" />
-              <mxPoint x="1420" y="280" />
+              <mxPoint x="1490" y="260" />
+              <mxPoint x="1420" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -999,7 +999,7 @@
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-328" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-325">
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-328" value="Код сотрудника" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-325">
           <mxGeometry x="120" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1079,64 +1079,64 @@
         <mxCell id="LFPc4WVPHWTu2LSeotTD-345" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" source="LFPc4WVPHWTu2LSeotTD-346" target="LFPc4WVPHWTu2LSeotTD-341" parent="eBwv___wAApwpnbQom4j-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="561" />
-              <mxPoint x="1010" y="561" />
+              <mxPoint x="1110" y="540" />
+              <mxPoint x="1010" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-346" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="eBwv___wAApwpnbQom4j-186">
-          <mxGeometry x="1050" y="321" width="170" height="170" as="geometry" />
+          <mxGeometry x="1050" y="321" width="170" height="199" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-347" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-346">
-          <mxGeometry width="170" height="40" as="geometry" />
+          <mxGeometry width="170" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-348" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-347">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-348" value="Код сотрудника" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-347">
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-349" value="Гос.Номер" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-347">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-349" value="ФИО" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-347">
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-350" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-346">
-          <mxGeometry y="40" width="170" height="40" as="geometry" />
+          <mxGeometry y="47" width="170" height="47" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-351" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-350">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-352" value="е678гг" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-350">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-352" value="Панина Аида Вячеславовна" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-350">
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-353" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-346">
-          <mxGeometry y="80" width="170" height="40" as="geometry" />
+          <mxGeometry y="94" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-354" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-353">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="46" as="geometry">
+            <mxRectangle width="73" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-355" value="у555рп" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-353">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-355" value="Банникова Дарья Игоревна" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-353">
+          <mxGeometry x="73" width="97" height="46" as="geometry">
+            <mxRectangle width="97" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-356" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-346">
-          <mxGeometry y="120" width="170" height="50" as="geometry" />
+          <mxGeometry y="140" width="170" height="59" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-357" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-356">
-          <mxGeometry width="73" height="50" as="geometry">
-            <mxRectangle width="73" height="50" as="alternateBounds" />
+          <mxGeometry width="73" height="59" as="geometry">
+            <mxRectangle width="73" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-358" value="й123си" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-356">
-          <mxGeometry x="73" width="97" height="50" as="geometry">
-            <mxRectangle width="97" height="50" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-358" value="Кравченко Елена Вячеславовна" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-356">
+          <mxGeometry x="73" width="97" height="59" as="geometry">
+            <mxRectangle width="97" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-359" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="eBwv___wAApwpnbQom4j-186">
@@ -1155,7 +1155,7 @@
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-363" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-360">
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-363" value="Код водителя" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-360">
           <mxGeometry x="120" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1235,64 +1235,64 @@
         <mxCell id="LFPc4WVPHWTu2LSeotTD-380" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" source="LFPc4WVPHWTu2LSeotTD-381" target="LFPc4WVPHWTu2LSeotTD-376" parent="eBwv___wAApwpnbQom4j-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="561" />
-              <mxPoint x="600" y="561" />
+              <mxPoint x="670" y="540" />
+              <mxPoint x="600" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-381" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="eBwv___wAApwpnbQom4j-186">
-          <mxGeometry x="640" y="321" width="170" height="170" as="geometry" />
+          <mxGeometry x="640" y="321" width="170" height="199" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-382" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-381">
-          <mxGeometry width="170" height="40" as="geometry" />
+          <mxGeometry width="170" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-383" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-382">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-383" value="Код водителя" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-382">
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-384" value="Гос.Номер" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-382">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-384" value="ФИО" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-382">
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-385" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-381">
-          <mxGeometry y="40" width="170" height="40" as="geometry" />
+          <mxGeometry y="47" width="170" height="47" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-386" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-385">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-387" value="е678гг" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-385">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-387" value="Иванов Иван Иванович" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-385">
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-388" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-381">
-          <mxGeometry y="80" width="170" height="40" as="geometry" />
+          <mxGeometry y="94" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-389" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-388">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="46" as="geometry">
+            <mxRectangle width="73" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-390" value="у555рп" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-388">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-390" value="Петров Петр Петрович" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-388">
+          <mxGeometry x="73" width="97" height="46" as="geometry">
+            <mxRectangle width="97" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-391" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-381">
-          <mxGeometry y="120" width="170" height="50" as="geometry" />
+          <mxGeometry y="140" width="170" height="59" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-392" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-391">
-          <mxGeometry width="73" height="50" as="geometry">
-            <mxRectangle width="73" height="50" as="alternateBounds" />
+          <mxGeometry width="73" height="59" as="geometry">
+            <mxRectangle width="73" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-393" value="й123си" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-391">
-          <mxGeometry x="73" width="97" height="50" as="geometry">
-            <mxRectangle width="97" height="50" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-393" value="Михайлов Михаил Михайлович" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-391">
+          <mxGeometry x="73" width="97" height="59" as="geometry">
+            <mxRectangle width="97" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-394" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="eBwv___wAApwpnbQom4j-186">
@@ -1467,7 +1467,7 @@
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-433" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-430">
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-433" value="Код препарата" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-430">
           <mxGeometry x="120" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1547,64 +1547,64 @@
         <mxCell id="LFPc4WVPHWTu2LSeotTD-450" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" source="LFPc4WVPHWTu2LSeotTD-451" target="LFPc4WVPHWTu2LSeotTD-446" parent="eBwv___wAApwpnbQom4j-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="848" />
-              <mxPoint x="1010" y="848" />
+              <mxPoint x="1110" y="830" />
+              <mxPoint x="1010" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-451" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="eBwv___wAApwpnbQom4j-186">
-          <mxGeometry x="1050" y="608" width="170" height="170" as="geometry" />
+          <mxGeometry x="1050" y="608" width="170" height="200.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-452" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-451">
-          <mxGeometry width="170" height="40" as="geometry" />
+          <mxGeometry width="170" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-453" value="Код автомобиля" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-452">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-453" value="Код препарата" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-452">
+          <mxGeometry width="73" height="42" as="geometry">
+            <mxRectangle width="73" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-454" value="Гос.Номер" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-452">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-454" value="Название" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-452">
+          <mxGeometry x="73" width="97" height="42" as="geometry">
+            <mxRectangle width="97" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-455" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-451">
-          <mxGeometry y="40" width="170" height="40" as="geometry" />
+          <mxGeometry y="42" width="170" height="47" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-456" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-455">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="47" as="geometry">
+            <mxRectangle width="73" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-457" value="е678гг" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-455">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-457" value="Димедрол" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-455">
+          <mxGeometry x="73" width="97" height="47" as="geometry">
+            <mxRectangle width="97" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-458" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-451">
-          <mxGeometry y="80" width="170" height="40" as="geometry" />
+          <mxGeometry y="89" width="170" height="53" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-459" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-458">
-          <mxGeometry width="73" height="40" as="geometry">
-            <mxRectangle width="73" height="40" as="alternateBounds" />
+          <mxGeometry width="73" height="53" as="geometry">
+            <mxRectangle width="73" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-460" value="у555рп" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-458">
-          <mxGeometry x="73" width="97" height="40" as="geometry">
-            <mxRectangle width="97" height="40" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-460" value="Ципролет" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-458">
+          <mxGeometry x="73" width="97" height="53" as="geometry">
+            <mxRectangle width="97" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-461" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-451">
-          <mxGeometry y="120" width="170" height="50" as="geometry" />
+          <mxGeometry y="142" width="170" height="59" as="geometry" />
         </mxCell>
         <mxCell id="LFPc4WVPHWTu2LSeotTD-462" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-461">
-          <mxGeometry width="73" height="50" as="geometry">
-            <mxRectangle width="73" height="50" as="alternateBounds" />
+          <mxGeometry width="73" height="59" as="geometry">
+            <mxRectangle width="73" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPc4WVPHWTu2LSeotTD-463" value="й123си" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-461">
-          <mxGeometry x="73" width="97" height="50" as="geometry">
-            <mxRectangle width="97" height="50" as="alternateBounds" />
+        <mxCell id="LFPc4WVPHWTu2LSeotTD-463" value="Ибуклин" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LFPc4WVPHWTu2LSeotTD-461">
+          <mxGeometry x="73" width="97" height="59" as="geometry">
+            <mxRectangle width="97" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
